@@ -1,0 +1,37 @@
+{
+  "title": "About SoundCloud Plugin",
+  "story": [
+  {
+    "type": "paragraph",
+    "id": "d558be986e07a674",
+    "text": "Here we describe the purpose of the plugin and include a sample."
+  },
+  {
+    "type": "soundcloud",
+    "id": "dcf5fc2c02deb295",
+    "text": "This is text in the new plugin. You can *double-click* to edit it too."
+  }
+],
+  "journal": [
+  {
+    "type": "create",
+    "item": {
+      "title": "About SoundCloud Plugin",
+      "story": [
+  {
+    "type": "paragraph",
+    "id": "d558be986e07a674",
+    "text": "Here we describe the purpose of the plugin and include a sample."
+  },
+  {
+    "type": "soundcloud",
+    "id": "dcf5fc2c02deb295",
+    "text": "This is text in the new plugin. You can *double-click* to edit it too."
+  }
+]
+    },
+    "date": 1517164092000,
+    "certificate": "from mkplugin.sh"
+  }
+]
+}
